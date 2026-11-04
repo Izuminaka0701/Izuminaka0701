@@ -8,7 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Penetration+Testing;Red+Teamer;Network+Security;Cryptography+%26+CTF;Machine+Learning+for+Cybersecurity" />
 
 <img src="https://media1.tenor.com/m/tIz-_gbXPZoAAAAd/nyan-cat-meme.gif"
-     width="350"
+     width="800"
+     height="450"
      alt="Nyan Cat Meme"
      align="center">
 
