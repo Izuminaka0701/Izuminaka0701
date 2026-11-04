@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Minh Quan 👋
+# Hi, I'm Izu
 
 ### Penetration Tester Intern | Cybersecurity Researcher
 ### Information Security | Offensive Security | Malware Analysis
