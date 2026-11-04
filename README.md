@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Penetration+Testing;Malware+Analysis;Network+Security;Cryptography+%26+CTF;Machine+Learning+for+Cybersecurity" />
 
-<img src="[https://media.giphy.com/media/f3iwJFsvyM6m4/giphy.gif](https://media1.tenor.com/m/tIz-_gbXPZoAAAAd/nyan-cat-meme.gif)" width="85%" alt="Cybersecurity Animation" />
+<img src="https://media1.tenor.com/m/tIz-_gbXPZoAAAAd/nyan-cat-meme.gif" width="350" alt="Nyan Cat Meme">
 
 </div>
 
