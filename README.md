@@ -8,22 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Penetration+Testing;Malware+Analysis;Network+Security;Cryptography+%26+CTF;Machine+Learning+for+Cybersecurity" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🛡️ Cybersecurity & Security Research
-
 <img src="https://media.giphy.com/media/f3iwJFsvyM6m4/giphy.gif" width="85%" alt="Cybersecurity Animation" />
-
-### 🔐 PENETRATION TESTING
-### 🦠 MALWARE ANALYSIS
-### 🌐 NETWORK SECURITY
-### 🔑 CRYPTOGRAPHY & CTF
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Exploring+Cybersecurity...;Analyzing+Threats...;Breaking+Things+to+Secure+Them...;Learning+Every+Day." />
 
 </div>
 
