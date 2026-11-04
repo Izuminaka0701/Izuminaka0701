@@ -88,6 +88,6 @@ Penetration Testing, and Security Research.
 
 <div align="center">
 
-### "Always Learning. Always Testing. Always Improving."
+### "Beyond What Is Known, Into What Is Possible"
 
 </div>
